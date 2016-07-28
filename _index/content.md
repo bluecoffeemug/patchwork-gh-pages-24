@@ -1,5 +1,5 @@
 ---
-profileimage: ""
+profileimage: "/"
 name: "Colette"
 title: "Person"
 ---
